@@ -1,1 +1,1 @@
-java -Xmx2048M -Xms2048M -jar minecraft_server.1.12.2.jar
+java -Xmx512M -Xms1008M -jar minecraft_server.1.12.2.jar
